@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: flxmapoptions\n"
+"POT-Creation-Date: 2013-12-29 17:32+0100\n"
+"PO-Revision-Date: 2013-12-29 17:32+0100\n"
+"Last-Translator: Kerli81 <@kerli81>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../class.FlxMapOptions_Admin.php:38
+msgid "Plugin \"Flexible Map\" is NOT active!"
+msgstr "Plugin \"Flexible Map\" ist NICHT aktiv!"
+
+#: ../class.FlxMapOptions_Admin.php:41
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../page.optionpage.php:29
+msgid "Default"
+msgstr "Standard-Wert"
+
+#: ../page.optionpage.php:44
+msgid "Successfully updated"
+msgstr "Erfolgreich aktualisiert"
+
+#: ../page.optionpage.php:52
+msgid "Options Page for "
+msgstr "Optionenseite für"
+
+#: ../page.optionpage.php:55
+msgid "Parameters for all maps"
+msgstr "Parameter für alle Karten"
+
+#: ../page.optionpage.php:58
+msgid "Width in Pixel/Percent"
+msgstr "Breite in Pixel/Prozent"
+
+#: ../page.optionpage.php:59
+msgid "Height in Pixel/Percent"
+msgstr "Höhe in Pixel/Prozent"
+
+#: ../page.optionpage.php:60
+msgid "Type of map to show"
+msgstr "anzuzeigender Kartentyp"
+
+#: ../page.optionpage.php:61
+msgid "Hide the map type controls"
+msgstr "Kartentyp-Element verstecken"
+
+#: ../page.optionpage.php:62
+msgid "Hide the panning controls"
+msgstr "Navigation-Element verstecken"
+
+#: ../page.optionpage.php:63
+msgid "Hide the zoom controls"
+msgstr "Zoom-Element verstecken"
+
+#: ../page.optionpage.php:64
+msgid "Hide the street view control"
+msgstr "Street View-Element verstecken"
+
+#: ../page.optionpage.php:65
+msgid "Which zoom control style"
+msgstr "Zoom Kontroll Typ"
+
+#: ../page.optionpage.php:66
+msgid "Hide the map scale"
+msgstr "Karten-Skala verstecken"
+
+#: ../page.optionpage.php:67
+msgid "Enable zoom with mouse scroll wheel"
+msgstr "Zoomen mit Mausrad erlauben"
+
+#: ../page.optionpage.php:68
+msgid "Enable dragging to pan"
+msgstr "Verschieben der Karte per Mausklick erlauben"
+
+#: ../page.optionpage.php:69
+msgid "Enable double-clicking to zoom"
+msgstr "Zoomen mit Doppelklick erlauben"
+
+#: ../page.optionpage.php:74
+msgid "Additional parameters for KML map"
+msgstr "Zusätzliche Parameter für KML-Karten"
+
+#: ../page.optionpage.php:77
+msgid "Prevent links from opening in new window"
+msgstr "Öffnen von Links in einem neuen Fenster verhindern"
+
+#~ msgid "Flexible Map Options"
+#~ msgstr "Flexible Map Options"
+
+#~ msgid ""
+#~ "Provides an option page for the plugin WP Flexible Map to define the "
+#~ "default values."
+#~ msgstr ""
+#~ "Stellt eine Optionenseite zur Verfügung, damit das Plugin \"WP Flexible "
+#~ "Map\" erweitert werden kann."
