@@ -2,7 +2,7 @@
 /*
 Plugin Name: Flexible Map Options
 Description: Provides an option page for the plugin WP Flexible Map to define the default values globally.
-Version: 1.0.0
+Version: 1.0.1
 Author: Kerli
 Domain Path: /languages
 Text Domain: flxmapoptions

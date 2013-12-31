@@ -1,11 +1,13 @@
-=== Flexible Map Options ===
+=== WP Flexible Map Options ===
 Contributors: kerli81
+Plugin Name: Flexible Map Options
 Tags: flexible map, options, kml, google, maps
 Requires at least: 3.2.1
 Tested up to: 3.8
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Donate link: 
 
 Provides an option page for the plugin WP Flexible Map to define the default values globally.
 
@@ -26,5 +28,19 @@ With version 1.0.0 only Germain and English are supported. If you would like to 
 2. A simple configuration page to modify the global values.
 
 == Changelog ==
+= 1.0.1 =
+* fix translation error
+
 = 1.0.0 =
+* missing fields added with DE translation.
+
+= 0.0.5 =
+* Initial release.
+
+== Upgrade Notice ==
+= 1.0.0 =
+* new properties for the option page
+* database fields will be updated automatically
+
+= 0.0.5 =
 * Initial release.

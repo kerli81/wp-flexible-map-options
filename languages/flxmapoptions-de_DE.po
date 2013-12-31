@@ -1,97 +1,157 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: flxmapoptions\n"
-"POT-Creation-Date: 2013-12-29 16:45+0100\n"
-"PO-Revision-Date: 2013-12-29 18:46+0100\n"
+"POT-Creation-Date: 2013-12-31 10:08+0100\n"
+"PO-Revision-Date: 2013-12-31 10:17+0100\n"
 "Last-Translator: Kerli81 <@kerli81>\n"
 "Language-Team: \n"
+"Language: de_DE\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.5.7\n"
 "X-Poedit-KeywordsList: __;_e\n"
 "X-Poedit-Basepath: .\n"
-"Language: de\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ..\n"
 
-#: ../class.FlxMapOptions_Admin.php:30
+#: ../class.FlxMapOptions_Admin.php:67
 msgid "Plugin \"Flexible Map\" is NOT active!"
 msgstr "Plugin \"Flexible Map\" ist NICHT aktiv!"
 
-#: ../class.FlxMapOptions_Admin.php:33
+#: ../class.FlxMapOptions_Admin.php:70
 msgid "Settings"
 msgstr "Einstellungen"
 
-#: ../page.optionpage.php:29
+#: ../page.optionpage.php:37
 msgid "Default"
 msgstr "Standard-Wert"
 
-#: ../page.optionpage.php:44
+#: ../page.optionpage.php:52
 msgid "Successfully updated"
 msgstr "Erfolgreich aktualisiert"
 
-#: ../page.optionpage.php:52
+#: ../page.optionpage.php:60
 msgid "Options Page for "
 msgstr "Optionenseite für "
 
-#: ../page.optionpage.php:55
+#: ../page.optionpage.php:62
+msgid ""
+"You will find more information about the fields on the instruction page of "
+"the WP Flexible Map plugin"
+msgstr ""
+"Weitere Informationen zu den einzelnen Felden können auf der Instruktion-"
+"Page des WP Flexible Map Plugins entnommen werden."
+
+#: ../page.optionpage.php:66
 msgid "Parameters for all maps"
 msgstr "Parameter für alle Karten"
 
-#: ../page.optionpage.php:58
+#: ../page.optionpage.php:69
 msgid "Width in Pixel/Percent"
 msgstr "Breite in Pixel/Prozent"
 
-#: ../page.optionpage.php:59
+#: ../page.optionpage.php:70
 msgid "Height in Pixel/Percent"
 msgstr "Höhe in Pixel/Prozent"
 
-#: ../page.optionpage.php:60
+#: ../page.optionpage.php:71
 msgid "Type of map to show"
 msgstr "anzuzeigender Kartentyp"
 
-#: ../page.optionpage.php:61
+#: ../page.optionpage.php:72
 msgid "Hide the map type controls"
 msgstr "Kartentyp-Element verstecken"
 
-#: ../page.optionpage.php:62
+#: ../page.optionpage.php:73
 msgid "Hide the panning controls"
 msgstr "Navigation-Element verstecken"
 
-#: ../page.optionpage.php:63
+#: ../page.optionpage.php:74
 msgid "Hide the zoom controls"
 msgstr "Zoom-Element verstecken"
 
-#: ../page.optionpage.php:64
+#: ../page.optionpage.php:75
 msgid "Hide the street view control"
 msgstr "Street View-Element verstecken"
 
-#: ../page.optionpage.php:65
+#: ../page.optionpage.php:76
 msgid "Which zoom control style"
 msgstr "Zoom Kontroll Typ"
 
-#: ../page.optionpage.php:66
+#: ../page.optionpage.php:77
 msgid "Hide the map scale"
 msgstr "Karten-Skala verstecken"
 
-#: ../page.optionpage.php:67
+#: ../page.optionpage.php:78
 msgid "Enable zoom with mouse scroll wheel"
 msgstr "Zoomen mit Mausrad erlauben"
 
-#: ../page.optionpage.php:68
+#: ../page.optionpage.php:79
 msgid "Enable dragging to pan"
 msgstr "Verschieben der Karte per Mausklick erlauben"
 
-#: ../page.optionpage.php:69
+#: ../page.optionpage.php:80
 msgid "Enable double-clicking to zoom"
 msgstr "Zoomen mit Doppelklick erlauben"
 
-#: ../page.optionpage.php:74
+#: ../page.optionpage.php:81
+msgid "show directions link in text bubble"
+msgstr "Zeige Routen-Link in Textblase"
+
+#: ../page.optionpage.php:82
+msgid "allow directions to be draggable"
+msgstr "Verschieben der Routen-Karte per Mausklick erlauben"
+
+#: ../page.optionpage.php:83
+msgid "suppress start and end markers when showing directions"
+msgstr "Start- und End-Marker bei Routen unterdrücken"
+
+#: ../page.optionpage.php:84
+msgid "show or suppress directions steps when showing directions"
+msgstr "Anzeigen der Schritte bei Routen"
+
+#: ../page.optionpage.php:85
+msgid "show or suppress directions search form when showing directions"
+msgstr "Anzeigen der Suche bei Routen"
+
+#: ../page.optionpage.php:86
+msgid ""
+"specify region to help localise address searches for street address map and "
+"directions"
+msgstr "Eingeschränkte Region für die Suche von Adressen bei Routen"
+
+#: ../page.optionpage.php:87
+msgid ""
+"use a specific locale (language) for messages like the text of the "
+"Directions link"
+msgstr "Sprachangabe für Texte bei Routen"
+
+#: ../page.optionpage.php:92
+msgid "Additional parameters for centre coordinates map"
+msgstr "Zusätzliche Parameter für koordinatsbasierte Karten"
+
+#: ../page.optionpage.php:95
+msgid "URL to icon for the marker"
+msgstr "URL zu einem Marker"
+
+#: ../page.optionpage.php:96
+msgid "show directions when the map loads"
+msgstr "Route anzeigen wenn Karte geladen wird"
+
+#: ../page.optionpage.php:97
+msgid "initial from: location for directions"
+msgstr "Initiale von:-Adresse bei Routen"
+
+#: ../page.optionpage.php:98
+msgid "show the marker's info window when the map loads"
+msgstr "Anzeige der Marker-Info beim Laden der Karte"
+
+#: ../page.optionpage.php:103
 msgid "Additional parameters for KML map"
 msgstr "Zusätzliche Parameter für KML-Karten"
 
-#: ../page.optionpage.php:77
+#: ../page.optionpage.php:106
 msgid "Prevent links from opening in new window"
 msgstr "Öffnen von Links in einem neuen Fenster verhindern"
