@@ -111,6 +111,17 @@ class FlxMapOptions_Options {
 		$this->addSingleOption('scrollwheel', 'false');
 		$this->addSingleOption('draggable', 'true');
 		$this->addSingleOption('dblclickzoom', 'true');
+		$this->addSingleOption('directions', 'false');
+		$this->addSingleOption('dirdraggable', 'false');
+		$this->addSingleOption('dirnomarkers', 'false');
+		$this->addSingleOption('dirshowsteps', 'true');
+		$this->addSingleOption('dirshowssearch', 'true');
+		$this->addSingleOption('region', '', 'text');
+		$this->addSingleOption('locale', '', 'text');
+		$this->addSingleOption('icon', '', 'text');
+		$this->addSingleOption('showdirections', 'false');
+		$this->addSingleOption('directionsfrom', '', 'text');
+		$this->addSingleOption('showinfo', 'true');
 		$this->addSingleOption('targetfix', 'true');
 	}
 	
