@@ -1,5 +1,6 @@
-=== Flexible Map Options ===
+=== WP Flexible Map Options ===
 Contributors: kerli81
+Plugin Name: Flexible Map Options
 Tags: flexible map, options, kml, google, maps
 Requires at least: 3.2.1
 Tested up to: 3.8
